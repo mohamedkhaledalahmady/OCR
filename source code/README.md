@@ -13,5 +13,5 @@
   README file.
 * How to install and run program
   After install source code you need only editor as vs code or any IDE with python interpreter.
-  and add path of image to the 5th line in code like pytesseract.pytesseract.tesseract_cmd= "C:\\Program Files\\Tesseract-OCR\\tesseract.exe".
+  and add path of image to the 5th line in code like ==> pytesseract.pytesseract.tesseract_cmd= "C:\\Program Files\\Tesseract-OCR\\tesseract.exe".
   
